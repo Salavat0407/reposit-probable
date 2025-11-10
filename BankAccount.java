@@ -1,4 +1,3 @@
-package DZOOP;
 public class BankAccount{
 	private String accountNumber;
 	private String ownerName;
